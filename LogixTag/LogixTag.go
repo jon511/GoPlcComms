@@ -28,7 +28,6 @@ var (
 	LINT  = DataType{0xc5, 8, 60, 60}
 )
 
-// LogixTag comment for logix tag
 type LogixTag struct {
 	Name     string
 	Status   int
